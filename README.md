@@ -1,2 +1,2 @@
-# Node-Job-Portal-App
-complete nodejs job portal application
+# Nodejs-Job-Portal-App
+complete NodeJS job portal application
